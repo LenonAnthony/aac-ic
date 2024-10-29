@@ -1,0 +1,282 @@
+input,output,instruction
+Café da manhã ,"Pão, quero comer pão, 🍞
+Fruta, quero comer fruta, 🍎
+Iogurte, quero beber iogurte, 🥛
+Suco, quero beber suco, 🧃
+Panqueca, quero comer panqueca, 🥞",
+Almoço pernambucano,"Arroz de Carne de Sol, eu quero comer arroz de carne de sol, 🍚
+Feijão Verde, eu quero feijão verde, 🥘
+Cuscuz, eu gostaria de cuscuz, 🍲
+Bolinhos de Macaxeira, eu quero bolinhos de macaxeira, 🥟
+Peixada, eu gostaria de peixada, 🐟",
+Almoço,"Feijão Verde, eu quero feijão verde, 🥘
+Arroz, eu quero arroz, 🍚
+Feijão, eu quero feijão, 🥘
+Frango, eu gostaria de frango, 🍗
+Salada, eu quero salada, 🥗
+Carne, eu quero carne, 🥩",
+Higiene Pessoal,"Escovar os Dentes, eu quero escovar os dentes, 🪥
+Tomar Banho, eu preciso tomar banho, 🚿
+Lavar as Mãos, eu quero lavar as mãos, 🧼
+Usar Desodorante, eu preciso usar desodorante, 🧴
+Pentear o Cabelo, eu quero pentear o cabelo, 💇",
+Caminhar,"Dar uma Caminhada, eu quero dar uma caminhada, 🚶
+Passear no Parque, eu gostaria de passear no parque, 🌳
+Caminhar na Rua, eu quero caminhar na rua, 🏙️
+Explorar Novos Lugares, eu quero explorar novos lugares, 🗺️
+Caminhar com Amigos, eu gostaria de caminhar com amigos, 👫",
+Descansar,"Descansar, eu quero descansar, 😌
+Relaxar, eu preciso relaxar, 🛋️
+Fazer uma Sesta, eu gostaria de fazer uma sesta, 💤
+Assistir TV, eu quero assistir TV, 📺
+Ler um Livro, eu gostaria de ler um livro, 📖",
+Escola,"Ir para a Escola, eu vou para a escola, 🏫
+Fazer a Lição de Casa, eu preciso fazer a lição de casa, 📚
+Participar das Aulas, eu quero participar das aulas, 📝
+Estudar para a Prova, eu preciso estudar para a prova, 📖
+Conversar com os Colegas, eu quero conversar com os colegas, 🗣️",
+Querer,"Quero Comer, eu gostaria de comer, 🍽️
+Quero Beber, eu quero beber algo, 🍹
+Quero Viajar, eu gostaria de viajar, ✈️
+Quero Brincar, eu quero brincar, 🎲
+Quero Descansar, eu preciso descansar, 🛌",
+Médico,"Marcar Consulta, eu preciso marcar uma consulta, 📅
+Tomar Medicamento, eu quero tomar o medicamento, 💊
+Fazer Exames, eu preciso fazer exames, 🩺
+Consultar Sobre Sintomas, eu quero consultar sobre meus sintomas, 🤕
+Receber Receituário, eu preciso receber o receituário, 📝",
+Parque,"Brincar no Parquinho, eu quero brincar no parquinho, 🛝
+Fazer um Piquenique, eu gostaria de fazer um piquenique, 🧺
+Andar de Bicicleta, eu quero andar de bicicleta, 🚴
+Observar as Áreas de Lazer, eu quero observar as áreas de lazer, 👀
+Relaxar no Gramado, eu gostaria de relaxar no gramado, 🌿",
+Mercado,"Comprar Alimentos, eu quero comprar alimentos, 🛒
+Procurar Ofertas, eu gostaria de procurar ofertas, 🏷️
+Pagar as Compras, eu preciso pagar as compras, 💳
+Escolher Frutas, eu quero escolher frutas, 🍎
+Encontrar Produtos, eu preciso encontrar produtos, 📦",
+Restaurante,"Fazer um Pedido, eu gostaria de fazer um pedido, 📋
+Escolher o Prato, eu quero escolher o prato, 🍽️
+Pedir a Conta, eu preciso pedir a conta, 💵
+Reservar Mesa, eu quero reservar uma mesa, 🪑
+Perguntar Sobre o Cardápio, eu gostaria de perguntar sobre o cardápio, 📜",
+Calor,"Procurar Sombra, eu quero procurar sombra, 🌳
+Beber Água, eu preciso beber água, 💧
+Usar Ventilador, eu quero usar o ventilador, 🌬️
+Ligar o Ar Condicionado, eu gostaria de ligar o ar condicionado, ❄️
+Vestir Roupas Leves, eu preciso vestir roupas leves, 👕",
+Sair,"Ir ao Supermercado, eu quero ir ao supermercado, 🛒
+Visitar um Amigo, eu gostaria de visitar um amigo, 🏠
+Passear na Cidade, eu quero passear na cidade, 🏙️
+Ir ao Centro Comercial, eu quero ir ao centro comercial, 🛍️
+Participar de um Evento, eu gostaria de participar de um evento, 🎉",
+Cansado,"Descansar um Pouco, eu preciso descansar um pouco, 😌
+Sentar para Relaxar, eu quero sentar para relaxar, 🪑
+Fazer uma Pausa, eu preciso fazer uma pausa, ⏸️
+Ir para Casa, eu gostaria de ir para casa, 🏡
+Deitar para Descansar, eu quero deitar para descansar, 🛏️",
+Sede,"Beber Água, eu preciso beber água, 💧
+Pedir uma Bebida, eu gostaria de pedir uma bebida, 🍹
+Procurar uma Fonte, eu quero procurar uma fonte, 🚰
+Comprar uma Garrafa de Água, eu quero comprar uma garrafa de água, 🍼
+Tomar Suco, eu gostaria de tomar suco, 🥤",
+Ajuda,"Preciso de Ajuda, eu preciso de ajuda, 🤲
+Me Dê uma Mão, eu gostaria que você me ajudasse, 🖐️
+Ajudar com a Tarefa, eu preciso de ajuda com a tarefa, 📝
+Encontre Alguém para Ajudar, eu quero encontrar alguém para ajudar, 🔍
+Ajuda Imediata, eu preciso de ajuda imediata, 🚨",
+Dor,"Sinto Dor, eu estou sentindo dor, 😣
+Preciso de Analgésico, eu preciso de um analgésico, 💊
+Consultar um Médico, eu quero consultar um médico, 🩺
+Pedir Ajuda para a Dor, eu preciso de ajuda para a dor, 🆘
+Descrever a Dor, eu preciso descrever a dor, 📋",
+Banheiro,"Ir ao Banheiro, eu preciso ir ao banheiro, 🚻
+Pedir para Usar o Banheiro, eu gostaria de usar o banheiro, 🚽
+Lavar as Mãos, eu quero lavar as mãos, 🧼
+Buscar Papel Higiênico, eu preciso de papel higiênico, 🧻
+Desinfetar as Mãos, eu quero desinfetar as mãos, 🧴",
+Pai,"Chamar o Pai, eu quero chamar o pai, 👨
+Pedir Ajuda ao Pai, eu preciso pedir ajuda ao pai, 🆘
+Conversar com o Pai, eu gostaria de conversar com o pai, 🗣️
+Dizer ""Te Amo"", eu quero dizer ""te amo"" para o pai, ❤️
+Pedir Permissão ao Pai, eu preciso pedir permissão ao pai, ✅",
+Mãe,"Chamar a Mãe, eu quero chamar a mãe, 👧
+Pedir Ajuda à Mãe, eu preciso pedir ajuda à mãe, 🆘
+Conversar com a Mãe, eu gostaria de conversar com a mãe, 🗣️
+Dizer ""Te Amo"", eu quero dizer ""te amo"" para a mãe, ❤️
+Pedir Permissão à Mãe, eu preciso pedir permissão à mãe, ✅",
+Família,"Reunir a Família, eu quero reunir a família, 🏡
+Fazer uma Refeição Juntos, eu gostaria de fazer uma refeição juntos, 🍽️
+Planejar um Encontro Familiar, eu quero planejar um encontro familiar, 📅
+Compartilhar Boas Notícias, eu quero compartilhar boas notícias com a família, 🎉
+Conversar com a Família, eu gostaria de conversar com a família, 🗣️",
+Tia,"Chamar a Tia, eu quero chamar a tia, 👧
+Pedir Ajuda à Tia, eu preciso pedir ajuda à tia, 🆘
+Conversar com a Tia, eu gostaria de conversar com a tia, 🗣️
+Dizer ""Te Amo"", eu quero dizer ""te amo"" para a tia, ❤️
+Pedir Permissão à Tia, eu preciso pedir permissão à tia, ✅",
+Primos,"Chamar o Primo, eu quero chamar o primo, 👦
+Brincar com os Primos, eu gostaria de brincar com os primos, 🎮
+Conversar com os Primos, eu quero conversar com os primos, 🗣️
+Pedir Ajuda aos Primos, eu preciso pedir ajuda aos primos, 🆘
+Passar Tempo com os Primos, eu quero passar tempo com os primos, 🕒",
+Amigos,"Chamar um Amigo, eu quero chamar um amigo, 👋
+Marcar um Encontro, eu gostaria de marcar um encontro, 📅
+Conversar com um Amigo, eu quero conversar com um amigo, 🗣️
+Pedir Ajuda a um Amigo, eu preciso pedir ajuda a um amigo, 🆘
+Fazer Atividades Juntos, eu quero fazer atividades juntos, 🎲",
+Trabalho,"Ir para o Trabalho, eu preciso ir para o trabalho, 🏢
+Participar de Reunião, eu quero participar da reunião, 🗂️
+Completar Tarefas, eu preciso completar minhas tarefas, ✅
+Pedir Ajuda no Trabalho, eu gostaria de pedir ajuda no trabalho, 🆘
+Receber Instruções, eu quero receber instruções, 📋",
+Necessidades,"Preciso de Ajuda, eu preciso de ajuda, 🤲
+Buscar Suporte, eu quero buscar suporte, 🆘
+Solicitar Assistência, eu gostaria de solicitar assistência, 🛠️
+Informar uma Necessidade, eu quero informar uma necessidade, 📢
+Pedir Recursos, eu preciso pedir recursos, 📦",
+Compras,"Comprar Roupas, eu quero comprar roupas, 👗
+Procurar Ofertas, eu gostaria de procurar ofertas, 🏷️
+Pagar Com Cartão, eu preciso pagar com cartão, 💳
+Escolher Presentes, eu quero escolher presentes, 🎁
+Verificar Preços, eu gostaria de verificar preços, 💵",
+Transporte,"Pegar Ônibus, eu preciso pegar o ônibus, 🚌
+Chamar um Táxi, eu quero chamar um táxi, 🚖
+Verificar Horários de Trem, eu gostaria de verificar os horários de trem, 🚆
+Andar de Metrô, eu quero andar de metrô, 🚇
+Usar Bicicleta, eu gostaria de usar bicicleta, 🚲",
+Saúde,"Marcar Consulta com Especialista, eu quero marcar uma consulta com especialista, 🩺
+Tomar Vitaminas, eu preciso tomar vitaminas, 💊
+Fazer Exercícios, eu quero fazer exercícios, 🏋️
+Seguir Dieta, eu preciso seguir uma dieta, 🥗
+Monitorar Pressão Arterial, eu gostaria de monitorar minha pressão arterial, 📈",
+Lazer,"Ir ao Cinema, eu quero ir ao cinema, 🎬
+Assistir a um Show, eu gostaria de assistir a um show, 🎤
+Visitar um Museu, eu quero visitar um museu, 🖼️
+Fazer Passeio Cultural, eu gostaria de fazer um passeio cultural, 🏛️
+Participar de um Clube, eu quero participar de um clube, 📚",
+Tecnologia,"Usar o Computador, eu quero usar o computador, 💻
+Configurar o Smartphone, eu preciso configurar o smartphone, 📱
+Atualizar Software, eu gostaria de atualizar o software, 🔄
+Procurar Informações Online, eu quero procurar informações online, 🌐
+Resolver Problemas Técnicos, eu preciso resolver problemas técnicos, ⚙️",
+Cozinha,"Preparar Refeição, eu quero preparar uma refeição, 🍳
+Seguir Receita, eu gostaria de seguir uma receita, 📜
+Comprar Ingredientes, eu preciso comprar ingredientes, 🛒
+Organizar a Cozinha, eu quero organizar a cozinha, 🧽
+Limpar Utensílios, eu preciso limpar os utensílios, 🧼",
+Estudos,"Revisar Matéria, eu preciso revisar a matéria, 📚
+Fazer Pesquisa, eu gostaria de fazer uma pesquisa, 🔬
+Participar de Grupo de Estudo, eu quero participar de um grupo de estudo, 🧠
+Entregar Trabalho, eu preciso entregar um trabalho, 📝
+Preparar para Apresentação, eu quero preparar para uma apresentação, 📊",
+Relacionamentos,"Expressar Gratidão, eu quero expressar minha gratidão, 🙏
+Resolver Conflitos, eu preciso resolver conflitos, 🤝
+Planejar Encontro, eu gostaria de planejar um encontro, 📅
+Mostrar Apoio, eu quero mostrar apoio, 🤗
+Celebrar Aniversário, eu gostaria de celebrar um aniversário, 🎂",
+Organização,"Planejar Tarefas, eu preciso planejar tarefas, 📋
+Manter Agenda Atualizada, eu quero manter a agenda atualizada, 📅
+Organizar Documentos, eu preciso organizar documentos, 📂
+Estabelecer Prioridades, eu gostaria de estabelecer prioridades, ✅
+Fazer Listas de Compras, eu quero fazer listas de compras, 📝",
+Rotina Diária,"Acordar, é hora de acordar, ⏰
+Lavar o Rosto, eu quero lavar o rosto, 🚿
+Escovar os Dentes, eu preciso escovar os dentes, 🪥
+Trocar de Roupa, eu preciso trocar de roupa, 👕
+Preparar a Mochila, eu quero preparar minha mochila, 🎒",
+Atividades de Estudo,"Fazer Lição de Casa, eu preciso fazer a lição de casa, 📚
+Assistir a Aula Online, eu quero assistir a aula online, 💻
+Organizar Cadernos, eu preciso organizar meus cadernos, 📓
+Revisar Notas, eu quero revisar minhas notas, 📝
+Ler um Livro, eu gostaria de ler um livro, 📖",
+Socialização,"Brincar com Amigos, eu quero brincar com meus amigos, 🧸
+Participar de Jogos em Grupo, eu gostaria de participar de jogos em grupo, 🎲
+Compartilhar Brinquedos, eu preciso compartilhar meus brinquedos, 🚂
+Convidar para uma Festa, eu quero convidar alguém para uma festa, 🎉
+Conversar no Intervalo, eu quero conversar com amigos no intervalo, 🗣️",
+Autocuidado,"Usar Creminho, eu quero usar creme, 🧴
+Escolher Roupas, eu preciso escolher minhas roupas, 👗
+Organizar Meu Espaço, eu quero organizar meu espaço, 🧹
+Lavar a Louça, eu preciso lavar a louça, 🍽️
+Fazer um Desenho, eu gostaria de fazer um desenho, 🎨",
+Transição e Mudança,"Preparar para Sair, eu quero me preparar para sair, 🚪
+Mudar de Atividade, eu preciso mudar de atividade, 🔄
+Acabar uma Tarefa, eu preciso acabar uma tarefa antes de começar outra, ✅
+Avisar Antes de Sair, eu quero avisar antes de sair, 📢
+Adaptar a Nova Rotina, eu preciso me adaptar a uma nova rotina, 📅",
+Comida,"Escolher um Lanche, eu quero escolher um lanche, 🍎
+Pedir Ajuda para Comer, eu preciso de ajuda para comer, 🍽️
+Beber Água, eu quero beber água, 💧
+Seguir uma Receita Simples, eu gostaria de seguir uma receita simples, 📋
+Preparar um Sanduíche, eu quero preparar um sanduíche, 🥪",
+Descanso e Relaxamento,"Fazer uma Pausa, eu preciso fazer uma pausa, ⏸️
+Ouvir Música Relaxante, eu gostaria de ouvir música relaxante, 🎶
+Ler um Livro Calmo, eu quero ler um livro calmo, 📖
+Fazer uma Atividade Relaxante, eu gostaria de fazer uma atividade relaxante, 🧩
+Usar uma Almofada Confortável, eu quero usar uma almofada confortável, 🛋️",
+Ajuda com Emoções,"Falar Sobre Sentimentos, eu quero falar sobre meus sentimentos, 🗣️
+Pedir um Abraço, eu preciso de um abraço, 🤗
+Desenhar para Relaxar, eu quero desenhar para relaxar, 🎨
+Pedir um Tempo, eu preciso de um tempo para mim, ⏳
+Usar uma Técnica de Respiração, eu quero usar uma técnica de respiração, 🌬️",
+Atividades ao Ar Livre,"Ir ao Parquinho, eu quero ir ao parquinho, 🛝
+Brincar na Grama, eu gostaria de brincar na grama, 🌿
+Explorar o Jardim, eu quero explorar o jardim, 🌼
+Correr no Quintal, eu quero correr no quintal, 🏃
+Participar de um Esporte, eu gostaria de participar de um esporte, ⚽",
+Rotina de Sono,"Preparar para Dormir, eu preciso preparar para dormir, 🛏️
+Ler uma História, eu quero ler uma história antes de dormir, 📖
+Colocar o Pijama, eu quero colocar o pijama, 👘
+Desligar as Luzes, eu preciso desligar as luzes, 💡
+Usar um Pelúcia, eu quero usar um pelúcia para dormir, 🧸",
+Escolhas e Preferências,"Escolher um Filme, eu quero escolher um filme, 🎥
+Decidir o Que Vestir, eu preciso decidir o que vestir, 👗
+Selecionar um Brinquedo, eu gostaria de selecionar um brinquedo, 🧸
+Escolher o Lugar para Comer, eu quero escolher onde comer, 🍽️
+Optar por uma Atividade, eu preciso optar por uma atividade, 🎨",
+Atividades em Casa,"Arrumar o Quarto, eu preciso arrumar o quarto, 🛏️
+Limpar a Mesa, eu quero limpar a mesa, 🧽
+Organizar Brinquedos, eu preciso organizar meus brinquedos, 🧸
+Preparar a Sala para Jogos, eu quero preparar a sala para jogos, 🏠
+Ajudar na Cozinha, eu gostaria de ajudar na cozinha, 🍳",
+Encontros e Visitas,"Receber Visita, eu quero receber uma visita, 🏠
+Fazer uma Videoconferência, eu preciso fazer uma videoconferência, 📹
+Convidar para uma Festa, eu quero convidar alguém para uma festa, 🎉
+Planejar um Encontro, eu gostaria de planejar um encontro, 📅
+Fazer uma Chamada de Vídeo, eu quero fazer uma chamada de vídeo, 📱",
+Rotina de Manhã,"Tomar Café da Manhã, eu quero tomar café da manhã, 🥣
+Vestir-se para o Dia, eu preciso vestir-me para o dia, 👕
+Verificar a Agenda, eu quero verificar a agenda, 📅
+Arrumar a Cama, eu preciso arrumar a cama, 🛏️
+Preparar o Material Escolar, eu quero preparar meu material escolar, 🎒",
+Momentos de Estudo,"Fazer uma Revisão Rápida, eu quero fazer uma revisão rápida, 📚
+Completar um Exercício, eu preciso completar um exercício, 📝
+Ler um Capítulo, eu gostaria de ler um capítulo, 📖
+Organizar Materiais de Estudo, eu quero organizar meus materiais de estudo, 📂
+Fazer um Desenho para Entender Melhor, eu quero fazer um desenho para entender melhor, 🎨",
+Cuidados Pessoais,"Usar Protetor Solar, eu preciso usar protetor solar, 🧴
+Hidratar a Pele, eu quero hidratar a pele, 🧴
+Cortar as Unhas, eu preciso cortar as unhas, ✂️
+Escovar o Cabelo, eu quero escovar o cabelo, 💇
+Usar Óculos, eu preciso usar óculos, 🤓",
+Atividades de Relaxamento,"Ouvir Música Calmante, eu quero ouvir música calmante, 🎶
+Fazer Alongamentos, eu preciso fazer alongamentos, 🤸
+Assistir a um Vídeo Relaxante, eu gostaria de assistir a um vídeo relaxante, 📺
+Usar um Cobertor Confortável, eu quero usar um cobertor confortável, 🛌
+Desenhar em um Caderno, eu quero desenhar em um caderno, 📓",
+Saída de Casa,"Preparar a Mochila, eu preciso preparar a mochila, 🎒
+Verificar o Tempo, eu quero verificar o tempo antes de sair, ☀️
+Colocar Protetor Solar, eu preciso colocar protetor solar, 🧴
+Levar uma Garrafa de Água, eu quero levar uma garrafa de água, 🍼
+Avisar onde Vou, eu preciso avisar onde vou, 📢",
+Dúvidas e Perguntas,"Pedir Explicação, eu quero pedir uma explicação, ❓
+Consultar uma Informação, eu preciso consultar uma informação, 📚
+Perguntar Sobre um Problema, eu gostaria de perguntar sobre um problema, 🤔
+Esclarecer uma Dúvida, eu quero esclarecer uma dúvida, 🗨️
+Pedir Ajuda com uma Tarefa, eu preciso de ajuda com uma tarefa, 🛠️",
+Animais de Estimação,"Dar Comida ao Pet, eu quero dar comida ao meu pet, 🐕
+Levar para Passeio, eu preciso levar o pet para um passeio, 🦴
+Trocar Água do Bebedouro, eu quero trocar a água do bebedouro, 💧
+Escovar o Pet, eu preciso escovar o pet, 🐩
+Brincar com o Pet, eu quero brincar com o pet, 🎾",
