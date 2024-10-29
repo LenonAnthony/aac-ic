@@ -1,1 +1,2 @@
-# aac-ic
+# Aplicando técnicas de fine-tuning e compressão em Super Tiny Language Models na geração de pictograma para a comunicação alternativa
+Este projeto explora a aplicação de técnicas de fine-tuning e compressão em Super Tiny Language Models (STLMs) para melhorar a geração de pictogramas em plataformas de comunicação alternativa, especificamente no aplicativo Livox. Utilizamos o modelo TinyLlama com 1.1 bilhões de parâmetros para otimizar a criação de representações visuais, como pictogramas, visando melhorar a comunicação alternativa para usuários com dificuldades na comunicação verbal.
